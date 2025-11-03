@@ -207,7 +207,7 @@ void rst::rasterizer::rasterize_triangle(const Triangle& t)
 
             if (count > 0) 
             {
-                float percentage = (float) count / 4;
+                float percentage = (float) count * 0.25;
 
                 Eigen::Vector3f point ((float) x, (float) y, z_interpolated);
 
