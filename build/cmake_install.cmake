@@ -1,4 +1,4 @@
-# Install script for directory: /home/kohei/Downloads/Assignment2/代码框架
+# Install script for directory: /home/kohei/Downloads/temporary-redirection/tmp/Rasterization-occlusion-anti-aliasing-Computer-Graphics
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/kohei/Downloads/Assignment2/代码框架/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/kohei/Downloads/temporary-redirection/tmp/Rasterization-occlusion-anti-aliasing-Computer-Graphics/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
