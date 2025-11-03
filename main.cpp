@@ -77,6 +77,7 @@ int main(int argc, const char** argv)
                     {-1, 0.5, -5}
             };
 
+    // just to make the code cleaner when accessing vertices cuz no need to write '+n' after i
     std::vector<Eigen::Vector3i> ind
             {
                     {0, 1, 2},
